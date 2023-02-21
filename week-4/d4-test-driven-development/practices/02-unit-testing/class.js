@@ -42,6 +42,7 @@ class Word {
         return second_half + first_half + "ay";
       }
     }
+
   }
 }
 

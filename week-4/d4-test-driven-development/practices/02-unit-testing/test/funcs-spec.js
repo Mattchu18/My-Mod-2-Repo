@@ -61,6 +61,7 @@ describe("isOdd(number)", () => {
   });
 });
 
+
 describe("myRange(min, max, step)", () => {
   context("if step is not provided", () => {
     it("should return the correct array with default value step=1", () => {
